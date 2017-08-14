@@ -1,0 +1,55 @@
+[{
+  "name":"The Everything Bagel Avocado Toast",
+  "description":"Let's get down to business with my favorite, shall we? Smear your toasted bread with cream cheese, add avocado, then a dense sprinkle of everything bagel blend.",
+  "img":"creamcheese_everything.jpeg"
+},
+{
+  "name":"Smoky Almond Avocado Toast",
+  "description":"Talk about healthy fats! Top your avocado toast with chopped almonds and a drizzle of smoked olive oil. Or flip it by using smoked almonds with extra virgin olive oil.",
+  "img":"almonds_olives.jpeg"
+},
+{
+  "name":"Bacon Goat Cheese Avocado Toast",
+  "description":"Bacon had to show up somewhere, right? Top your avocado toast with crumbles of cooked bacon and a handful of goat cheese.",
+  "img":"bacon_goatcheese.jpeg"
+},
+{
+  "name":"Za'atar Avocado Toast",
+  "description":"This invokes the flavors of Lebanon, Greece, and the Mediterranean. Smear a big dollop of whole-milk yogurt on your toast and top with za'atar, the fragrant herb blend.",
+  "img":"yogurt_zaatar.jpeg"
+},
+{
+  "name":"Chips & Salsa Avocado Toast",
+  "description":"Chips and salsa go together everywhere — even on avocado toast. This is a great use for those last few crumbs in the tortilla chip bag. Drizzle a bit of spicy salsa over your avocado toast, then top with crushed tortilla chips.",
+  "img":"salsa_tortilla.jpeg"
+},
+{
+  "name":"Indian Egg Avocado Toast",
+  "description":"An egg is essential in this lineup, no? Smash a soft-boiled or poached egg on your avocado toast and sprinkle with garam masala or another Indian spice blend, such as curry powder or a rasam mix.",
+  "img":"softegg_garam.jpeg"
+},
+{
+  "name":"Caprese Avocado Toast",
+  "description":"As soon as tomatoes come into season, you better believe they're going on toast! This is so simple — chop up cherry tomatoes and put them on avocado toast with shreds of fresh basil. Black pepper optional.",
+  "img":"tomato_basil.jpeg"
+},
+{
+  "name":"Hot & Sour Avocado Toast",
+  "description":"Sometimes you just need some spice in the morning. Top avocado toast with hot sauce, Sriracha, or sambal olek, and squeeze a slice of lemon over it all.",
+  "img":"hotsauce_lemon.jpeg"
+},
+{
+  "name":"Strawberry Avocado Toast",
+  "description":"The toast for when strawberries are in hand. Top your toast with sliced strawberries and a drizzle of aged balsamic vinegar.",
+  "img":"strawberry_balsamic.jpeg"
+},
+{
+  "name":"The Feta-Lover's Avocado Toast",
+  "description":"Avocado toast for those of you who can't get enough feta. Crumble feta on top and add sliced scallions, which just enhance the taste of feta.",
+  "img":"feta_scallions.jpeg"
+},
+{
+  "name":"Esquites Avocado Toast",
+  "description":"Top your toast with plain corn kernels or leftover corn salad and a squeeze of lime for a vibrant start to the day.",
+  "img":"cornsalad_lime.jpeg"
+}]
